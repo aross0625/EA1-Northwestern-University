@@ -1,2 +1,2 @@
 # EA1 Northwestern University
- Collection of programs from Engineering Analysis I
+ Collection of programs from Engineering Analysis I at Northwestern University
